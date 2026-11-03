@@ -1,0 +1,1287 @@
+Act as an expert UI/UX designer, senior full-stack developer, SaaS architect, and restaurant technology product specialist.
+
+I want you to build a complete, professional, production-ready, fully responsive **Restaurant & Cafe QR Ordering Management Platform** inspired by the two uploaded reference images.
+
+Carefully use both reference images to understand the visual direction:
+
+* Reference Image 1: Premium coffee shop mobile application with elegant cream backgrounds, coffee-brown branding, product cards, food photography, categories, promotional banners, shopping cart, and bottom navigation.
+* Reference Image 2: Restaurant QR code ecosystem featuring digital menus, online ordering, customer reviews, loyalty programs, and restaurant analytics.
+
+Combine these two concepts into one powerful, modern, all-in-one restaurant technology platform.
+
+IMPORTANT: Create a completely original brand identity, logo, interface, illustrations, content, and design. Do not copy any existing brand names, logos, copyrighted text, or exact business identity.
+
+# 1. PROJECT OVERVIEW
+
+Project Name: DINEFLOW
+
+Business Type: All-in-One Restaurant & Cafe Digital Management Platform.
+
+Tagline: Scan. Order. Enjoy.
+
+Main Objective:
+
+Build a complete platform that allows any cafe, restaurant, hotel, bakery, or food business to create its own digital restaurant experience.
+
+Every restaurant owner should be able to:
+
+* Create their restaurant account.
+* Customize their restaurant profile.
+* Upload their restaurant logo.
+* Add food categories.
+* Add food products with images and prices.
+* Generate unique QR codes.
+* Create digital restaurant menus.
+* Accept online orders.
+* Manage orders.
+* Receive customer reviews.
+* Create loyalty programs.
+* Manage discounts and coupons.
+* View business analytics.
+* Manage their restaurant independently.
+
+The platform must support multiple restaurants, with each restaurant having its own private dashboard and customer-facing digital experience.
+
+Target Audience:
+
+* Cafes.
+* Restaurants.
+* Hotels.
+* Bakeries.
+* Fast-food outlets.
+* Cloud kitchens.
+* Food courts.
+* Small and large food businesses.
+
+Primary Market: India.
+
+Currency: Indian Rupees (₹).
+
+# 2. BRAND IDENTITY AND DESIGN DIRECTION
+
+Create a premium, elegant, modern restaurant technology brand.
+
+Brand Name: DINEFLOW.
+
+Create an original logo combining:
+
+* A restaurant or serving-dish symbol.
+* A subtle QR-inspired geometric element.
+* Elegant typography.
+
+Visual direction:
+
+Use the first reference image for the customer-facing restaurant experience and the second reference image for the QR ordering and restaurant management concept.
+
+The overall design must feel:
+
+* Premium.
+* Warm.
+* Elegant.
+* Modern.
+* Minimal.
+* Professional.
+* Trustworthy.
+* Easy to use.
+
+Avoid making the website look like a generic restaurant template.
+
+# 3. COLOR PALETTE
+
+Use a consistent warm luxury color system.
+
+Primary Background: #FAF5ED
+
+Secondary Background: #FFFDF9
+
+Card Background: #FFFFFF
+
+Primary Coffee Brown: #542B17
+
+Dark Espresso: #29170F
+
+Caramel: #B87532
+
+Golden Accent: #D99A4E
+
+Soft Beige: #EDE0CE
+
+Light Cream: #F5EBDD
+
+Primary Text: #211B17
+
+Secondary Text: #75685E
+
+Border Color: #E9DFD3
+
+Success Green: #268A55
+
+Error Red: #D94A4A
+
+Use coffee-brown buttons, warm golden accents, subtle beige backgrounds, and elegant shadows.
+
+Avoid excessive neon colors.
+
+# 4. WEBSITE STRUCTURE
+
+Build the following complete system:
+
+A. Public Marketing Website.
+B. Restaurant Owner Registration and Login.
+C. Restaurant Owner Dashboard.
+D. Customer Digital Restaurant Website.
+E. QR Code Generator.
+F. Online Ordering System.
+G. Customer Review System.
+H. Loyalty and Rewards System.
+I. Super Admin Dashboard.
+
+Each part must work together.
+
+# 5. PUBLIC WEBSITE HEADER
+
+Create a premium responsive navigation bar.
+
+LEFT:
+
+* DINEFLOW logo.
+* Brand name.
+* Tagline.
+
+CENTER:
+
+* Home.
+* Features.
+* Solutions.
+* How It Works.
+* Pricing.
+* Contact.
+
+RIGHT:
+
+* Login.
+* Start Free button.
+
+Design:
+
+* Warm cream background.
+* Elegant coffee-brown typography.
+* Subtle border.
+* Rounded CTA buttons.
+* Sticky navigation.
+* Smooth hover transitions.
+* Mobile hamburger menu.
+
+# 6. HERO SECTION
+
+Create an impressive two-column hero section.
+
+LEFT SIDE:
+
+Small badge:
+
+"THE SMARTER WAY TO RUN YOUR RESTAURANT"
+
+Main headline:
+
+"YOUR RESTAURANT.
+ONE SCAN.
+ENDLESS POSSIBILITIES."
+
+Highlight selected words in caramel brown.
+
+Supporting description:
+
+"Transform your cafe or restaurant with smart QR menus, seamless online ordering, customer reviews, loyalty rewards, and powerful business management tools."
+
+Primary CTA:
+
+"START FREE →"
+
+Secondary CTA:
+
+"EXPLORE FEATURES"
+
+Below the buttons, display three trust indicators:
+
+* Digital QR Menu.
+* Smart Online Ordering.
+* Customer Loyalty.
+
+RIGHT SIDE:
+
+Create a stunning premium smartphone mockup displaying a realistic digital cafe application.
+
+The smartphone interface should show:
+
+* Original restaurant logo.
+* Search bar.
+* Promotional coffee banner.
+* Food categories.
+* Popular dishes.
+* Product photographs.
+* Food prices.
+* Add-to-cart buttons.
+* Cart icon.
+* Bottom navigation.
+
+Use premium realistic coffee and food photography.
+
+Smartphone mockup should have:
+
+* Rounded black device frame.
+* Realistic screen reflections.
+* Soft shadows.
+* Natural lighting.
+* Subtle floating animation.
+
+# 7. QR CODE ECOSYSTEM SECTION
+
+Create a visually impressive section inspired by the second reference image.
+
+Heading:
+
+"ONE QR CODE. A COMPLETE RESTAURANT EXPERIENCE."
+
+Supporting text:
+
+"Give your customers everything they need with just one scan."
+
+Center:
+
+Display an elegant restaurant QR standee mockup placed on a beautifully decorated restaurant table.
+
+The standee should feature:
+
+* Original restaurant branding.
+* Real functional QR code when configured.
+* Elegant typography.
+* Premium printed-card appearance.
+* Coffee-brown and golden borders.
+
+Surround the central standee with four floating feature cards.
+
+CARD 1: DIGITAL MENU
+
+Icon: Menu.
+
+Title: Digital Menu.
+
+Description:
+"Let customers explore your complete menu with beautiful food photos and updated prices."
+
+CARD 2: ONLINE ORDERING
+
+Icon: Serving Dish.
+
+Title: Order Online.
+
+Description:
+"Customers can select dishes, customize orders, and place orders directly from their phones."
+
+CARD 3: CUSTOMER REVIEWS
+
+Icon: Star.
+
+Title: Reviews.
+
+Description:
+"Make it easy for customers to share feedback and visit your official Google review page."
+
+CARD 4: LOYALTY PROGRAM
+
+Icon: Gift.
+
+Title: Loyalty.
+
+Description:
+"Reward returning customers with points, exclusive offers, and special discounts."
+
+Connect the cards visually to the QR standee using elegant dotted arrows.
+
+IMPORTANT:
+
+The QR code must be generated dynamically using the restaurant's actual public URL.
+
+Never display a decorative or fake QR code as a functional QR code.
+
+# 8. HOW IT WORKS SECTION
+
+Heading:
+
+"GET YOUR RESTAURANT READY IN MINUTES"
+
+Create a four-step process.
+
+STEP 1:
+Create Your Account.
+
+"Register your restaurant and set up your business profile."
+
+STEP 2:
+Build Your Digital Menu.
+
+"Upload your logo, add food items, prices, descriptions, and images."
+
+STEP 3:
+Generate Your QR Code.
+
+"Create your unique restaurant QR code and download it for printing."
+
+STEP 4:
+Start Receiving Orders.
+
+"Let customers scan, browse, order, review, and earn rewards."
+
+Use premium illustrations, numbered cards, and smooth animations.
+
+# 9. RESTAURANT OWNER ONBOARDING
+
+Create a simple guided onboarding experience.
+
+After registration, display:
+
+"GET YOUR RESTAURANT READY"
+
+Progress indicator showing completed setup steps.
+
+Setup checklist:
+
+1. Add Restaurant Information.
+2. Upload Restaurant Logo.
+3. Add Food Categories.
+4. Add Menu Items and Prices.
+5. Configure Payment Methods.
+6. Generate Restaurant QR Code.
+7. Customize Customer Menu.
+8. Publish Restaurant.
+
+Restaurant owners must be able to complete these steps themselves.
+
+Show progress automatically.
+
+Save completed steps to the database.
+
+Allow owners to leave and continue later.
+
+# 10. CUSTOMER DIGITAL MENU WEBSITE
+
+This is one of the most important features.
+
+Every registered restaurant must receive its own unique public digital menu website.
+
+Example URL structure:
+
+/restaurant/restaurant-name
+
+Each restaurant's customer-facing website must automatically display its own:
+
+* Logo.
+* Business name.
+* Cover image.
+* Address.
+* Contact information.
+* Opening hours.
+* Food categories.
+* Food products.
+* Prices.
+* Offers.
+* Restaurant information.
+
+The customer website should resemble the premium coffee shop application shown in Reference Image 1.
+
+## Customer Header
+
+Display:
+
+* Restaurant logo.
+* Restaurant name.
+* Search icon.
+* Notifications icon, when supported.
+* Shopping cart with item counter.
+
+## Search Bar
+
+Placeholder:
+
+"Search coffee, food & more..."
+
+Allow customers to search menu products instantly.
+
+## Promotional Hero Banner
+
+Display a large beautiful restaurant banner.
+
+Example:
+
+"GOOD FOOD.
+GOOD VIBES."
+
+Supporting text:
+
+"Freshly prepared meals, made with love."
+
+CTA:
+
+"ORDER NOW →"
+
+Allow restaurant owners to customize:
+
+* Banner image.
+* Headline.
+* Description.
+* CTA.
+* Promotional offer.
+
+## Food Categories
+
+Create attractive circular category icons.
+
+Example categories:
+
+* Coffee.
+* Breakfast.
+* Pizza.
+* Burgers.
+* Sandwiches.
+* Desserts.
+* Drinks.
+* More.
+
+Categories should be dynamically loaded from the restaurant database.
+
+## Popular Picks
+
+Display premium food cards with:
+
+* Product image.
+* Product name.
+* Description.
+* Rating.
+* Price.
+* Vegetarian/non-vegetarian indicator.
+* Bestseller badge.
+* Add button.
+
+Example products:
+
+Cappuccino – ₹149.
+
+Chocolate Muffin – ₹99.
+
+Chicken Club Sandwich – ₹199.
+
+Margherita Pizza – ₹249.
+
+Chicken Biryani – ₹199.
+
+The restaurant owner must be able to add, edit, delete, and manage every product.
+
+## Promotional Banner
+
+Create an attractive promotional section.
+
+Example:
+
+"WEEKEND SPECIAL"
+
+"20% OFF ON ALL ORDERS"
+
+Include:
+
+* Food image.
+* Coupon information.
+* Order Now button.
+
+All promotional information must be configurable by the restaurant owner.
+
+# 11. PRODUCT DETAILS AND CUSTOMIZATION
+
+When customers click a food item, open a premium product detail screen.
+
+Display:
+
+* Large product image.
+* Product name.
+* Description.
+* Price.
+* Ingredients.
+* Dietary information.
+* Available sizes.
+* Add-ons.
+* Customization options.
+* Quantity selector.
+* Special instructions.
+
+Example:
+
+Choose Size:
+
+* Regular.
+* Medium.
+* Large.
+
+Add Extras:
+
+* Extra Cheese.
+* Extra Sauce.
+* Extra Toppings.
+
+Display the updated price automatically.
+
+Add to Cart button must work.
+
+# 12. SHOPPING CART AND ONLINE ORDERING
+
+Create a complete working ordering system.
+
+Cart should include:
+
+* Product image.
+* Product name.
+* Selected customization.
+* Quantity.
+* Price.
+* Remove button.
+* Subtotal.
+* Taxes.
+* Delivery charges, when applicable.
+* Discounts.
+* Final total.
+
+Customer details:
+
+* Name.
+* Mobile number.
+* Table number, for dine-in.
+* Delivery address, for delivery.
+* Order instructions.
+
+Support ordering modes:
+
+1. Dine-In.
+2. Takeaway.
+3. Home Delivery.
+
+Restaurant owners should be able to enable or disable each ordering mode.
+
+Payment options:
+
+* Cash.
+* UPI.
+* Razorpay.
+* Other configured payment gateways.
+
+Only show payment methods configured by the restaurant.
+
+Never fake successful payment confirmations.
+
+# 13. SMART QR CODE GENERATOR
+
+Build a complete QR code generation system.
+
+Every restaurant should have a unique QR code.
+
+QR destinations must be permanent, restaurant-specific public URLs.
+
+Features:
+
+* Generate QR code.
+* Download PNG.
+* Download SVG.
+* Download PDF.
+* Print QR standee.
+* Customize QR colors.
+* Add restaurant logo.
+* Preview QR design.
+* Regenerate QR if necessary.
+* Copy public menu link.
+
+QR types:
+
+1. Restaurant Main QR.
+2. Table QR.
+3. Menu QR.
+4. Ordering QR.
+5. Review QR.
+
+TABLE QR FUNCTIONALITY:
+
+Allow restaurant owners to generate separate QR codes for:
+
+* Table 1.
+* Table 2.
+* Table 3.
+* Table 4.
+* Additional tables.
+
+When customers scan a table QR, the correct table number should automatically appear in their order.
+
+IMPORTANT QR REQUIREMENTS:
+
+* QR codes must contain real working URLs.
+* Public QR destinations must not require customer login.
+* No private dashboard URLs.
+* No broken routes.
+* No authentication errors such as 403.
+* All public pages must work on Android, iPhone, and desktop browsers.
+* Test every generated QR code before considering it complete.
+
+# 14. CUSTOMER REVIEW AND GOOGLE REVIEW SYSTEM
+
+Create a professional review experience.
+
+After customers complete their order, show:
+
+"HOW WAS YOUR EXPERIENCE?"
+
+Allow customers to:
+
+* Select star ratings.
+* Write feedback.
+* Submit restaurant reviews.
+
+Include a separate button:
+
+"WRITE A GOOGLE REVIEW"
+
+When clicked:
+
+* Open the restaurant's configured official Google review destination.
+* Support direct review links.
+* Show a clear message explaining that customers may need to paste or write their feedback on Google.
+* Never claim a Google review has been published without confirmation.
+
+Restaurant owners should be able to configure their Google review URL.
+
+Dashboard should display:
+
+* Total customer feedback.
+* Average rating.
+* Recent reviews.
+* Review trends.
+
+Do not use rating-based restrictions or incentives to suppress negative reviews.
+
+# 15. CUSTOMER LOYALTY AND REWARDS
+
+Create an elegant loyalty program.
+
+Heading:
+
+"EVERY ORDER BRINGS YOU CLOSER TO A REWARD"
+
+Features:
+
+* Customer reward points.
+* Loyalty membership.
+* Reward history.
+* Special discounts.
+* Birthday offers.
+* Referral rewards.
+* Redeemable coupons.
+
+Example:
+
+Earn 10 points for every ₹100 spent.
+
+Allow restaurant owners to configure reward rules.
+
+Customers should be able to view their reward balance.
+
+# 16. CUSTOMER BOTTOM NAVIGATION
+
+On mobile, create a premium fixed bottom navigation bar.
+
+Tabs:
+
+1. Home.
+2. Menu.
+3. Orders.
+4. Rewards.
+5. Profile.
+
+Design:
+
+* Cream background.
+* Coffee-brown icons.
+* Active tab highlighted.
+* Central Order button with circular brown background.
+* Smooth transitions.
+* Touch-friendly spacing.
+
+# 17. RESTAURANT OWNER DASHBOARD
+
+Create a separate professional restaurant owner dashboard.
+
+Dashboard heading:
+
+"GOOD MORNING, [RESTAURANT NAME]"
+
+Supporting text:
+
+"Here's what's happening with your restaurant today."
+
+Sidebar navigation:
+
+* Overview.
+* Restaurant Profile.
+* Digital Menu.
+* Food Categories.
+* Manage Products.
+* QR Codes.
+* Orders.
+* Customers.
+* Reviews.
+* Loyalty Program.
+* Offers & Coupons.
+* Analytics.
+* Settings.
+
+Overview dashboard cards:
+
+* Total Orders.
+* Today's Revenue.
+* Active Products.
+* Total Customers.
+* Average Rating.
+* Pending Orders.
+
+Add:
+
+* Sales charts.
+* Order charts.
+* Best-selling products.
+* Recent orders.
+* Recent reviews.
+* QR scan analytics.
+
+Use clean cream and coffee-brown styling.
+
+Make the dashboard fully functional, not just a static design.
+
+# 18. ORDER MANAGEMENT DASHBOARD
+
+Restaurant owners must be able to receive and manage orders.
+
+Display order columns or tabs:
+
+* New Orders.
+* Accepted.
+* Preparing.
+* Ready.
+* Completed.
+* Cancelled.
+
+Every order should include:
+
+* Order ID.
+* Customer name.
+* Items.
+* Quantity.
+* Table number, if applicable.
+* Payment method.
+* Payment status.
+* Order time.
+* Total amount.
+
+Actions:
+
+* Accept order.
+* Reject order.
+* Start preparing.
+* Mark ready.
+* Complete order.
+* Print receipt.
+
+Update order status in real time when supported.
+
+Provide notification alerts for new orders.
+
+# 19. MENU MANAGEMENT
+
+Create a complete menu editor.
+
+Restaurant owners can:
+
+* Add categories.
+* Edit categories.
+* Delete categories.
+* Add products.
+* Upload food images.
+* Change product prices.
+* Edit descriptions.
+* Add product variants.
+* Add extra toppings.
+* Set availability.
+* Mark products as popular.
+* Mark products as bestseller.
+* Set vegetarian/non-vegetarian status.
+
+Changes must automatically update the public customer menu.
+
+# 20. RESTAURANT SETTINGS
+
+Allow owners to manage:
+
+* Restaurant name.
+* Logo.
+* Cover photo.
+* Business description.
+* Address.
+* Phone number.
+* WhatsApp contact.
+* Opening hours.
+* Weekly closing days.
+* Google Maps location.
+* Google review URL.
+* Currency.
+* Tax settings.
+* Delivery charges.
+* Payment methods.
+* Ordering modes.
+* Restaurant status.
+
+Include a live preview of the public restaurant website.
+
+# 21. SUPER ADMIN DASHBOARD
+
+Create a separate secure Super Admin panel.
+
+Only authorized Super Admin users should have access.
+
+Super Admin features:
+
+* View all registered restaurants.
+* Approve restaurant registrations.
+* Activate or deactivate accounts.
+* Manage restaurant owners.
+* View subscription status.
+* Manage platform settings.
+* View overall platform analytics.
+* Manage plans.
+* Manage support requests.
+* View platform activity.
+
+Platform analytics:
+
+* Total restaurants.
+* Active restaurants.
+* Pending approvals.
+* Total orders.
+* Total customers.
+* Platform revenue.
+* Monthly registrations.
+
+IMPORTANT SECURITY:
+
+* Super Admin access must be verified server-side.
+* Never place secret passwords or setup codes in frontend source code.
+* Use secure password hashing.
+* Implement role-based access control.
+* Restaurant owners must never access another restaurant's private information.
+* Enforce database-level tenant isolation.
+
+# 22. MULTI-RESTAURANT ARCHITECTURE
+
+This is extremely important.
+
+The platform must support unlimited restaurants.
+
+Each restaurant must have an independent workspace.
+
+Example:
+
+Restaurant A:
+
+* Own logo.
+* Own menu.
+* Own products.
+* Own QR codes.
+* Own customers.
+* Own orders.
+* Own reviews.
+* Own analytics.
+
+Restaurant B:
+
+* Completely separate data.
+* Completely separate menu.
+* Completely separate QR codes.
+* Completely separate orders.
+
+Restaurant C:
+
+* Completely separate business workspace.
+
+RULE:
+
+ONE RESTAURANT = ONE PRIVATE WORKSPACE.
+
+No restaurant owner should ever see another restaurant's business data.
+
+Every database record must be associated with the correct restaurant ID.
+
+# 23. CONTACT AND SUPPORT SECTION
+
+Create a professional support section.
+
+Heading:
+
+"WE'RE HERE TO HELP YOUR BUSINESS GROW."
+
+Include:
+
+* Contact form.
+* Name.
+* Email.
+* Mobile number.
+* Restaurant name.
+* Message.
+
+Add:
+
+* WhatsApp support button.
+* Email support.
+* FAQ section.
+
+Forms must have proper validation and backend submission.
+
+# 24. FOOTER DESIGN
+
+Create an elegant footer with a warm cream or dark espresso background.
+
+LEFT:
+
+* DINEFLOW logo.
+* Tagline.
+* Short brand description.
+
+PRODUCT:
+
+* Digital Menu.
+* QR Ordering.
+* Online Payments.
+* Customer Reviews.
+* Loyalty Rewards.
+
+COMPANY:
+
+* About Us.
+* Contact.
+* Pricing.
+* Blog.
+
+SUPPORT:
+
+* Help Center.
+* FAQs.
+* Privacy Policy.
+* Terms & Conditions.
+
+FOLLOW US:
+
+* Instagram.
+* Facebook.
+* LinkedIn.
+* YouTube.
+
+Include copyright information and functional links.
+
+# 25. TYPOGRAPHY
+
+Use premium, elegant typography.
+
+Suggested fonts:
+
+Headings:
+
+* Playfair Display.
+* DM Serif Display.
+
+Body:
+
+* Inter.
+* Poppins.
+
+Prices:
+
+* Inter SemiBold.
+
+Navigation:
+
+* Poppins Medium.
+
+Design hierarchy:
+
+* Large elegant hero headlines.
+* Strong section headings.
+* Clear product names.
+* Readable product descriptions.
+* Prominent pricing.
+* Consistent button typography.
+
+Use proper spacing and line heights.
+
+# 26. IMAGE GENERATION REQUIREMENTS
+
+Generate original, premium, high-quality images wherever image generation is supported.
+
+Required assets:
+
+1. Premium coffee cup with latte art.
+2. Cafe interior.
+3. Gourmet burger.
+4. Pizza.
+5. Chocolate muffin.
+6. Sandwich.
+7. Biryani.
+8. Desserts.
+9. Cold coffee.
+10. Restaurant table setup.
+11. Premium QR standee mockup.
+12. Smartphone digital menu mockup.
+13. Restaurant ordering interface mockup.
+14. Customer loyalty illustrations.
+15. Restaurant owner dashboard illustrations.
+
+Photography style:
+
+* Photorealistic.
+* Professional food advertising.
+* Warm natural lighting.
+* Rich food textures.
+* Premium restaurant photography.
+* Elegant backgrounds.
+* High-resolution appearance.
+
+IMPORTANT:
+
+* Do not use empty image boxes.
+* Do not use broken image URLs.
+* Do not use unrelated stock images.
+* Do not use the uploaded reference images as website assets.
+* Generate original images.
+* Maintain consistent visual styling.
+* Optimize all images for mobile and desktop.
+
+# 27. ANIMATIONS AND INTERACTIONS
+
+Implement:
+
+* Smooth scrolling.
+* Section fade-in.
+* Hero smartphone floating animation.
+* QR standee entrance animation.
+* Card hover effects.
+* Button transitions.
+* Product image zoom.
+* Cart animation.
+* Add-to-cart notifications.
+* Dashboard loading animations.
+* Smooth sidebar transitions.
+* QR generation animation.
+* Success notifications.
+* Mobile menu transitions.
+
+Use Framer Motion or lightweight CSS animations.
+
+Respect reduced-motion preferences.
+
+# 28. FULL RESPONSIVE DESIGN
+
+The complete platform must work perfectly on:
+
+* Android smartphones.
+* iPhones.
+* Tablets.
+* Laptops.
+* Desktop computers.
+
+Desktop:
+
+* Full navigation.
+* Spacious layouts.
+* Multi-column sections.
+* Professional dashboards.
+
+Tablet:
+
+* Adaptive layouts.
+* Two-column product grids.
+* Responsive dashboard navigation.
+
+Mobile:
+
+* Mobile-first design.
+* Touch-friendly buttons.
+* Scrollable categories.
+* Optimized food cards.
+* Fixed bottom navigation.
+* Easy checkout.
+* Mobile-friendly dashboard.
+* QR scanning compatibility.
+
+Test screen sizes:
+
+360px, 375px, 390px, 430px, 768px, 1024px, 1440px, and 1920px.
+
+Never allow horizontal overflow.
+
+# 29. TECHNICAL STACK
+
+Preferred architecture:
+
+Frontend:
+
+* React.
+* TypeScript.
+* Tailwind CSS.
+* Framer Motion.
+* Lucide Icons.
+
+Backend:
+
+* Secure server-side APIs.
+* Supabase or Firebase.
+
+Database:
+
+* PostgreSQL or supported scalable database.
+
+Authentication:
+
+* Secure email/password authentication.
+* Password hashing.
+* Protected sessions.
+* Role-based permissions.
+
+Storage:
+
+* Restaurant logos.
+* Food images.
+* Cover images.
+* QR assets.
+
+Database tables:
+
+* users
+* restaurants
+* restaurant_members
+* restaurant_settings
+* categories
+* products
+* product_variants
+* product_addons
+* qr_codes
+* tables
+* customers
+* orders
+* order_items
+* payments
+* coupons
+* reviews
+* loyalty_accounts
+* loyalty_transactions
+* notifications
+* subscriptions
+
+Use proper foreign keys and restaurant-specific data isolation.
+
+# 30. SEO AND PERFORMANCE
+
+Implement:
+
+* SEO-friendly URLs.
+* Dynamic page titles.
+* Meta descriptions.
+* Open Graph images.
+* Semantic HTML.
+* Image optimization.
+* Lazy loading.
+* Sitemap.
+* Robots.txt.
+* Fast loading.
+* Responsive image delivery.
+* Proper error handling.
+
+Make public restaurant menus accessible to search engines where appropriate.
+
+# 31. SECURITY AND PAYMENT RELIABILITY
+
+Implement:
+
+* Server-side validation.
+* Secure authentication.
+* Database access policies.
+* Restaurant-level permissions.
+* Protected administrative routes.
+* Payment verification.
+* Secure API credentials.
+* Rate limiting.
+* Safe error handling.
+
+Never expose API keys or payment secrets in frontend code.
+
+Never fake successful payments.
+
+Only mark an online payment as successful after verifying the payment through the payment provider's trusted server-side mechanism.
+
+# 32. FINAL DEVELOPMENT INSTRUCTIONS
+
+Do not build only a landing page.
+
+Build the entire working platform, including:
+
+1. Public marketing website.
+2. Restaurant registration.
+3. Restaurant login.
+4. Owner onboarding.
+5. Restaurant dashboard.
+6. Menu management.
+7. Food product management.
+8. Dynamic QR generator.
+9. Customer digital menu.
+10. Online ordering.
+11. Shopping cart.
+12. Checkout.
+13. Order management.
+14. Customer reviews.
+15. Google review redirection.
+16. Loyalty rewards.
+17. Analytics.
+18. Super Admin panel.
+19. Multi-restaurant database architecture.
+20. Responsive mobile experience.
+
+Test all important features.
+
+Verify:
+
+* QR codes open the correct public restaurant.
+* Each restaurant has its own menu.
+* Orders are saved correctly.
+* Restaurant owners can manage their products.
+* Customer cart calculations work.
+* Review links open correctly.
+* Table QR codes identify the correct table.
+* Data remains private between restaurants.
+* All buttons work.
+* No broken routes.
+* No 403 errors on public customer pages.
+* No console errors.
+* Mobile layouts work correctly.
+
+If external integrations require credentials, create secure configuration fields and clear setup instructions instead of pretending the integrations are connected.
+
+# FINAL COMMAND
+
+Build DINEFLOW as a complete, premium, client-ready, multi-restaurant QR menu and ordering SaaS platform.
+
+The visual experience must combine the warm, elegant coffee-shop mobile application aesthetic of Reference Image 1 with the smart restaurant QR ecosystem of Reference Image 2.
+
+The result must look like a professionally developed commercial product that can be sold to real cafe owners, restaurant owners, hotels, and food businesses.
+
+Prioritize beautiful design, simple customer experiences, powerful restaurant management, working QR codes, secure multi-tenant architecture, and real business functionality.
+
+**Do not stop at a homepage or static prototype. Implement the complete working application with frontend, backend, database, authentication, customer experience, restaurant dashboard, and Super Admin panel.**

@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-primary: #FAF5ED;
+    --bg-secondary: #FFFDF9;
+    --card-bg: #FFFFFF;
+    --primary-brown: #542B17;
+    --dark-espresso: #29170F;
+    --caramel: #B87532;
+    --golden: #D99A4E;
+    --soft-beige: #EDE0CE;
+    --light-cream: #F5EBDD;
+    --primary-text: #211B17;
+    --secondary-text: #75685E;
+    --border-color: #E9DFD3;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--primary-text);
+  }
+
+  h1, h2, h3, .font-serif-luxury {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+}

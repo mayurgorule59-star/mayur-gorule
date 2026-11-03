@@ -1,0 +1,6 @@
+{
+  "name": "DineFlow — Multi-Restaurant QR Ordering Platform",
+  "description": "Production SaaS platform for cafes, restaurants and hotels with QR table ordering, digital menus, real-time kitchen orders, UPI & cash payments, and multi-tenant management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
